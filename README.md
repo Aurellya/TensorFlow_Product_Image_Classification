@@ -1,4 +1,5 @@
 ## Product Image Classification
+[Supervised Machine Learning]<br/>
 Product Image Classification for E-commerce using TensorFlow. I'm using one of the famous machine learning algorithms, CNN (Convolutional Neural Network).
 
 ## Requirement:
