@@ -1,10 +1,9 @@
 
 import tensorflow as tf 
 import numpy as np
-import pickle
+#import pickle
 import os
 import cv2 
-import matplotlib.pyplot as plt
 import pandas as pd
 
 # preparing dataset
